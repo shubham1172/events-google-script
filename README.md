@@ -26,4 +26,4 @@ I first wrote this script around a decade back when I decided to delete my Faceb
 
 ## Changelog
 1. Sometime back: Initial version
-1. 2025-11-01: Refactored code, use special birthday events instead of all-day events.
+1. 2025-01-11: Refactored code, use special birthday events instead of all-day events.
